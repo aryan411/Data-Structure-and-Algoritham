@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;SinglyLinkedList.original.has.error.in.clone.method.java&apos; to &apos;Lesson2Examples/src/linkedlists.bkup&apos;&#x0D;&#x0A;- Original project: &apos;Lesson2Examples&apos;&#x0D;&#x0A;- Destination element: &apos;Lesson2Examples/src/linkedlists.bkup&apos;&#x0D;&#x0A;- Original element: &apos;SinglyLinkedList.original.has.error.in.clone.method.java&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move file" destination="/src&lt;linkedlists.bkup" element1="src/linkedlists/SinglyLinkedList.original.has.error.in.clone.method.java" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1656904988787" units="0" version="1.0"/>
+</session>

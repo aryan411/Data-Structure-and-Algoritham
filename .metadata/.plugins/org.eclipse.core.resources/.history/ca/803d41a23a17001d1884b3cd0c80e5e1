@@ -1,0 +1,43 @@
+package ex1;
+
+import java.util.List;
+
+public class Driver {
+	 public static <E> int pathlength(AbstractTree<E> t)
+	  {
+		  List<Position<E>> tree =  (List<Position<E>>) t.preorder();
+		  int pathLength = 0;
+		  int i = 0;
+		  for(i = 0; i < tree.size() ;i++);
+		  {
+			  pathLength += t.depth(tree.get(i));
+		  }
+		  return pathLength;
+	  }
+	  
+	 
+	  public static void main(String[] args)
+	  {
+		  //create and populate a linked binary tree
+		  LinkedBinaryTree lbt = new LinkedBinaryTree<>();
+		  Position<String> root =lbt.addRoot("ICET");
+		  
+		  //	  
+		  Position<String> softwarePosition = lbt.addLeft(root, "Software");
+		  Position<String> networkingPosition = lbt.addRight(root, "Networking");
+		  Position<String> set = lbt.addLeft(softwarePosition, "SET");
+		  Position<String> ig = lbt.addRight(softwarePosition, "IG");
+
+		  //
+		  
+//		  printPreorder(lbt);
+//		  parenthesize(lbt, root);
+//		  printPositionAndHeight(lbt, root);
+		  
+//		 System.out.println("\nNext element after \"" + softwarePosition.getElement() +"\"  is \"" + preorderNextElement(lbt,networkingPosition).getElement() + "\"");
+	  
+		  System.out.println("\n Path length of given tree is\t" + pathlength(lbt));
+	  }
+	 
+
+}

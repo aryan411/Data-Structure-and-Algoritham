@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="exe1.SinglyLinkList"/>
+    <fullyQualifiedTypeName name="exe2.DoublyLinkList"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="org.jfree.data.xy.XYSeries"/>
+    <fullyQualifiedTypeName name="org.jfree.data.xy.XYSeriesCollection"/>
+    <fullyQualifiedTypeName name="org.jfree.chart.JFreeChart"/>
+    <fullyQualifiedTypeName name="org.jfree.chart.ChartFactory"/>
+    <fullyQualifiedTypeName name="org.jfree.chart.plot.PlotOrientation"/>
+    <fullyQualifiedTypeName name="org.jfree.chart.axis.NumberAxis"/>
+    <fullyQualifiedTypeName name="org.jfree.chart.plot.XYPlot"/>
+    <fullyQualifiedTypeName name="java.awt.Color"/>
+    <fullyQualifiedTypeName name="org.jfree.chart.ChartPanel"/>
+    <fullyQualifiedTypeName name="org.jfree.chart.axis.LogarithmicAxis"/>
+    <fullyQualifiedTypeName name="exe2.BigOh"/>
+    <fullyQualifiedTypeName name="org.jfree.chart.ChartUtilities"/>
+    <fullyQualifiedTypeName name="java.io.File"/>
+    <fullyQualifiedTypeName name="java.io.IOException"/>
+    <fullyQualifiedTypeName name="org.jfree.ui.ApplicationFrame"/>
+    <fullyQualifiedTypeName name="Exercise1.ArithmaticOperations"/>
+    <fullyQualifiedTypeName name="Exercise2.Palindrome"/>
+    <fullyQualifiedTypeName name="Exercise1.SingliLinkList"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="Exercise1.LinkedStack"/>
+    <fullyQualifiedTypeName name="java.util.Queue"/>
+    <fullyQualifiedTypeName name="Exercise2.SinglyLinkList"/>
+    <fullyQualifiedTypeName name="Exercise2.LinkedQueue"/>
+    <fullyQualifiedTypeName name="java.lang.Iterable"/>
+    <fullyQualifiedTypeName name="java.util.Iterator"/>
+    <fullyQualifiedTypeName name="exercise1.LinkedPositionalList"/>
+    <fullyQualifiedTypeName name="exercise2.Position"/>
+    <fullyQualifiedTypeName name="javax.swing.tree.FixedHeightLayoutCache"/>
+    <fullyQualifiedTypeName name="exercise2.AbstractTree"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="exercise1.Position"/>
+    <fullyQualifiedTypeName name="java.lang.Comparable"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="ex1.LinkedBinaryTree"/>
+    <fullyQualifiedTypeName name="ex2.UnsortedTableMap"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="Stack"/>
+</qualifiedTypeNameHistroy>

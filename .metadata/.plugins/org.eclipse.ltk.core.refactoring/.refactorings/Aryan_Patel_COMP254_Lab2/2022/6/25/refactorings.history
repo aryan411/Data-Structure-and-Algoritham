@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete 3 elements from project &apos;Aryan_Patel_COMP254_Lab2&apos;&#x0D;&#x0A;- Original project: &apos;Aryan_Patel_COMP254_Lab2&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     exe2.BigOh.java&#x0D;&#x0A;     exe2.Driver.java&#x0D;&#x0A;     exe2.Snippet.java" description="Delete elements" element1="/src&lt;exe2{BigOh.java" element2="/src&lt;exe2{Driver.java" element3="/src&lt;exe2{Snippet.java" elements="3" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1655080684519" subPackages="false" version="1.0"/>
+</session>
